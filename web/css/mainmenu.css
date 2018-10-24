@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01.11.2017, 18:40:44
+    Author     : admin
+*/
+
+#main-menu.navbar-default .navbar-brand {
+    color: rgba(0, 0, 0, 1);
+}
+#main-menu.navbar-default {
+    font-size: 15px;
+    background-color: rgba(230, 230, 230, 1);
+    border-bottom-width: 0px;
+}
+#main-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(140, 21, 21, 1);
+    background-color: rgba(230, 230, 230, 1);
+}
+#main-menu.navbar-default .navbar-nav>li>a:hover,
+#main-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(140, 21, 21, 1);
+    background-color: rgba(230, 177, 177, 1);
+}
+#main-menu.navbar-default .navbar-nav>.active>a,
+#main-menu.navbar-default .navbar-nav>.active>a:hover,
+#main-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(140, 21, 21, 1);
+    background-color: rgba(230, 177, 177, 1);
+}
+#main-menu.navbar-default .navbar-toggle {
+    border-color: #e6b1b1;
+}
+#main-menu.navbar-default .navbar-toggle:hover,
+#main-menu.navbar-default .navbar-toggle:focus {
+    background-color: #e6b1b1;
+}
+#main-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #e6b1b1;
+}
+#main-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#main-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #e6e6e6;
+}
